@@ -1,0 +1,254 @@
+@import url(../ICON/fontawesome-free-6.1.2-web/css/all.css);
+.body1::before{
+    content: url();
+    width: 40px;
+    height: 60px;
+    position: absolute;
+    background-color: black;
+    top: 440px;
+    left: 1000px;
+}
+.body1::after{
+    content: url();
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 150px solid green;
+    border-radius: 100px;
+    top: 300px;
+    left: 910px;
+}
+.body2::before{
+    content: url();
+    width: 0;
+    height: 0;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 150px solid green;
+    border-radius: 100px;
+    position: absolute;
+    top: 220px;
+    left: 910px;
+}
+.body2::after{
+    content: url();
+    width: 0;
+    height: 0;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 150px solid green;
+    border-radius: 100px;
+    position: absolute;
+    top: 150px;
+    left: 910px;
+}
+.body3::after{
+    content: url();
+    width: 0;
+    height: 0;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 150px solid green;
+    border-radius: 100px;
+    position: absolute;
+    top: 250px;
+    left: 910px;
+}
+.yoo1{
+    color: gray;
+    font-size: 30px;
+    position: absolute;
+    top: 130px;
+    left: 1000px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof;
+    animation-duration: 5s;
+    animation-iteration-count: inherit;
+}
+@keyframes onof{
+    0%{
+        color: orangered;
+    }
+    20%{
+        color: goldenrod;
+    }
+    40%{
+        color: aquamarine;
+    }
+    60%{
+        color: blue;
+    }
+    80%{
+        color: firebrick;
+    }
+}
+.yoo2{
+    color: green;
+    font-size: 30px;
+    position: absolute;
+    top: 250px;
+    left: 910px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof2;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+.yoo3{
+    color: yellowgreen;
+    font-size: 30px;
+    position: absolute;
+    top: 350px;
+    left: 910px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof3;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+.yoo4{
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    top: 400px;
+    left: 910px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof4;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+.yoo5{
+    color: yellow;
+    font-size: 30px;
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof5;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+.yoo6{
+    color: red;
+    font-size: 30px;
+    position: absolute;
+    top: 350px;
+    left: 1100px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof6;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+.yoo7{
+    color: palevioletred;
+    font-size: 30px;
+    position: absolute;
+    top: 400px;
+    left: 1100px;
+    transform: matrix(1,-0.3,0,1,0,0);
+    animation-name: onof7;
+    animation-duration: 20s;
+    animation-iteration-count: inherit;
+}
+@keyframes onof2{
+    0%{
+        color: beige;
+    }
+    20%{
+        color: red;
+    }
+    40%{
+        color: darkorange;
+    }
+    60%{
+        color: lime;
+    }
+    80%{
+        color: brown;
+    }
+}
+@keyframes onof3{
+    0%{
+        color: indigo;
+    }
+    20%{
+        color: orange;
+    }
+    40%{
+        color: pink;
+    }
+    60%{
+        color: ghostwhite;
+    }
+    80%{
+        color: blueviolet;
+    }
+}
+@keyframes onof4{
+    0%{
+        color: blue;
+    }
+    20%{
+        color: red;
+    }
+    40%{
+        color: gray;
+    }
+    60%{
+        color: grey;
+    }
+    80%{
+        color: darkred;
+    }
+}
+@keyframes onof5{
+    0%{
+        color: beige;
+    }
+    20%{
+        color: red;
+    }
+    40%{
+        color: black;
+    }
+    60%{
+        color: wheat;
+    }
+    80%{
+        color: purple;
+    }
+}
+@keyframes onof6{
+    0%{
+        color: royalblue;
+    }
+    20%{
+        color: fuchsia;
+    }
+    40%{
+        color: darkgray;
+    }
+    60%{
+        color: salmon;
+    }
+    80%{
+        color: tomato;
+    }
+}
+@keyframes onof7{
+    0%{
+        color: forestgreen;
+    }
+    20%{
+        color: red;
+    }
+    40%{
+        color: darkorange;
+    }
+    60%{
+        color: lime;
+    }
+    80%{
+        color: brown;
+    }
+}

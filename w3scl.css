@@ -1,0 +1,65 @@
+@import url(../ICON/fontawesome-free-6.1.2-web/css/all.css);
+
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+}
+
+
+.fa-bars .sidebar{
+    width: 30%;
+    height: 94vh;
+    background-color: white;
+    box-shadow: 0px 0px 2px black;
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    display: none;
+}
+.sidebar div{
+    margin-top: 30px;
+}
+.fa-bars:focus .sidebar{
+    display: block;
+}
+.fa-bars{
+    display: none;
+}
+@media(max-width:1200px){
+    .hide{
+        display: none;
+    }
+    .fa-bars{
+        display: inherit;
+    }
+    .hide4{
+        display: none;
+    }
+    .hide7{
+        display: none;
+    }
+}
+@media(max-width:700px){
+    .hide2{
+        display: none;
+    }
+    .hide4{
+        display: inherit;
+    }
+}
+@media(max-width:400px){
+    .hide3{
+        display: none;
+    }
+    .hide7{
+        display: inherit;
+    }
+}

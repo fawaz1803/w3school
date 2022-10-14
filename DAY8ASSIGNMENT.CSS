@@ -1,0 +1,471 @@
+.PROJECT{
+    width: 50px;
+    height: 15px;
+    background-color: darkred;
+    margin-top: 500px;
+    box-shadow: 50px 0px 1px black, 101px 0px 1px darkred, 151px 0px 1px black,
+    201px 0px 1px darkred, 250px 0px 1px black,300px 0px 1px darkred,
+     350px 0px 1px black, 400px 0px 1px darkred,450px 0px 1px black,
+     500px 0px 1px darkred,550px 0px 1px black,600px 0px 1px darkred,
+     650px 0px 1px black,700px 0px 1px darkred, 
+     
+     /* second row
+     second row
+     second row
+     second row
+     second row
+     second row
+     second row
+     second row
+     second row
+     second row
+     second row
+    second row*/
+0px -16.5px 1px black,
+50px -16.5px 1px darkred,
+101px -16.5px 1px black,
+151px -16.5px 1px darkred,
+201px -16.5px 1px black,
+250px -16.5px 1px darkred,
+300px -16.5px 1px black,
+350px -16.5px 1px darkred,
+400px -16.5px 1px black,
+450px -16.5px 1px darkred,
+500px -16.5px 1px black,
+550px -16.5px 1px darkred,
+600px -16.5px 1px black,
+650px -16.5px 1px darkred,
+700px -16.5px 1px black,
+
+
+/* third row
+third row
+third row
+third row
+third row
+third row
+third row
+third row
+third row
+third row
+third row
+third row */
+0px -33px 1px black,
+50px -33px 1px darkred,
+101px -33px 1px black,
+151px -33px 1px darkred,
+201px -33px 1px black,
+250px -33px 1px darkred,
+300px -33px 1px black,
+350px -33px 1px darkred,
+400px -33px 1px black,
+450px -33px 1px white,
+500px -33px 1px white,
+550px -33px 1px darkred,
+600px -33px 1px black,
+650px -33px 1px darkred,
+700px -33px 1px black,
+
+/* forth row
+forth row
+forth row
+forth row
+forth row
+forth row
+forth row
+forth row
+forth row
+forth row
+forth row */
+0px -49.5px 1px black,
+50px -49.5px 1px darkred,
+101px -49.5px 1px black,
+151px -49.5px 1px white,
+201px -49.5px 1px white,
+250px -49.5px 1px white,
+300px -49.5px 1px black,
+350px -49.5px 1px darkred,
+400px -49.5px 1px black,
+450px -49.5px 1px white,
+500px -49.5px 1px white,
+550px -49.5px 1px darkred,
+600px -49.5px 1px black,
+650px -49.5px 1px darkred,
+700px -49.5px 1px black,
+
+/* fifth row
+fifth row
+fifth row
+fifth row
+fifth row
+fifth row
+fifth row
+fifth row
+fifth row
+fifth row */
+0px -66px 1px black,
+50px -66px 1px darkred,
+101px -66px 1px black,
+151px -66px 1px white,
+201px -66px 1px white,
+250px -66px 1px white,
+300px -66px 1px black,
+350px -66px 1px darkred,
+400px -66px 1px black,
+450px -66px 1px white,
+500px -66px 1px white,
+550px -66px 1px darkred,
+600px -66px 1px black,
+650px -66px 1px darkred,
+700px -66px 1px black,
+
+/* six row
+six row
+six row
+six row
+six row
+six row
+six row
+six row
+six row
+six row */
+0px -82.5px 1px black,
+50px -82.5px 1px darkred,
+101px -82.5px 1px black,
+151px -82.5px 1px white,
+201px -82.5px 1px white,
+250px -82.5px 1px white,
+300px -82.5px 1px black,
+350px -82.5px 1px darkred,
+400px -82.5px 1px black,
+450px -82.5px 1px white,
+500px -82.5px 1px white,
+550px -82.5px 1px darkred,
+600px -82.5px 1px black,
+650px -82.5px 1px darkred,
+700px -82.5px 1px black,
+
+/* seventh row
+seventh row
+seventh row
+seventh row
+seventh row
+seventh row
+seventh row
+seventh row
+seventh row */
+0px -99px 1px black,
+50px -99px 1px darkred,
+101px -99px 1px black,
+151px -99px 1px white,
+201px -99px 1px white,
+250px -99px 1px white,
+300px -99px 1px black,
+350px -99px 1px darkred,
+400px -99px 1px black,
+450px -99px 1px white,
+500px -99px 1px white,
+550px -99px 1px darkred,
+600px -99px 1px black,
+650px -99px 1px darkred,
+700px -99px 1px black,
+
+/* eighth row
+eighth row
+eighth row
+eighth row
+eighth row
+eighth row
+eighth row
+eighth row
+eighth row
+eighth row */
+0px -115.5px 1px black,
+50px -115.5px 1px darkred,
+101px -115.5px 1px black,
+151px -115.5px 1px white,
+201px -115.5px 1px white,
+250px -115.5px 1px white,
+300px -115.5px 1px black,
+350px -115.5px 1px darkred,
+400px -115.5px 1px black,
+450px -115.5px 1px darkred,
+500px -115.5px 1px black,
+550px -115.5px 1px darkred,
+600px -115.5px 1px black,
+650px -115.5px 1px darkred,
+700px -115.5px 1px black,
+
+/* ninth row
+ninth row
+ninth row
+ninth row
+ninth row
+ninth row
+ninth row
+ninth row
+ninth row
+ninth row */
+0px -132px 1px black,
+50px -132px 1px darkred,
+101px -132px 1px black,
+151px -132px 1px darkred,
+201px -132px 1px black,
+250px -132px 1px darkred,
+300px -132px 1px black,
+350px -132px 1px darkred,
+400px -132px 1px black,
+450px -132px 1px darkred,
+500px -132px 1px black,
+550px -132px 1px darkred,
+600px -132px 1px black,
+650px -132px 1px darkred,
+700px -132px 1px black,
+
+/* tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row 
+tenth row  */
+0px -148.5px 1px black,
+50px -148.5px 1px darkred,
+101px -148.5px 1px black,
+151px -148.5px 1px darkred,
+201px -148.5px 1px black,
+250px -148.5px 1px darkred,
+300px -148.5px 1px black,
+350px -148.5px 1px darkred,
+400px -148.5px 1px black,
+450px -148.5px 1px darkred,
+500px -148.5px 1px black,
+550px -148.5px 1px darkred,
+600px -148.5px 1px black,
+650px -148.5px 1px darkred,
+700px -148.5px 1px black,
+
+/* eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row 
+eleven row  */
+0px -165px 1px black,
+50px -165px 1px darkred,
+101px -165px 1px black,
+151px -165px 1px darkred,
+201px -165px 1px black,
+250px -165px 1px darkred,
+300px -165px 1px black,
+350px -165px 1px darkred,
+400px -165px 1px black,
+450px -165px 1px darkred,
+500px -165px 1px black,
+550px -165px 1px darkred,
+600px -165px 1px black,
+650px -165px 1px darkred,
+700px -165px 1px black,
+
+/* twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row 
+twelve row  */
+0px -181.5px 1px red,
+50px -181.5px 1px red,
+100px -181.5px 1px red,
+151px -181.5px 1px red,
+201px -181.5px 1px red,
+250px -181.5px 1px red,
+300px -181.5px 1px red,
+350px -181.5px 1px red,
+400px -181.5px 1px red,
+450px -181.5px 1px red,
+500px -181.5px 1px red,
+600px -181.5px 1px red,
+700px -181.5px 1px red,
+651px -181.5px 1px red,
+550px -181.5px 1px red,
+
+/* thirteen row 
+thirteen row 
+thirteen row 
+thirteen row 
+thirteen row 
+thirteen row 
+thirteen row 
+thirteen row 
+thirteen row  */
+12px -198px 1px red,
+50px -198px 1px red,
+101px -198px 1px red,
+151px -198px 1px red,
+600px -198px 1px red,
+650px -198px 1px red,
+700px -198px 1px red,
+350px -198px 1px red,
+400px -198px 1px red,
+450px -198px 1px red,
+500px -198px 1px red,
+550px -198px 1px red,
+
+
+/* fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row 
+fourteen row  */
+12px -198px 1px red,
+62px -198px 1px red,
+112px -198px 1px red,
+162px -198px 1px red,
+212px -198px 1px red,
+262px -198px 1px red,
+312px -198px 1px red,
+362px -198px 1px red,
+412px -198px 1px red,
+462px -198px 1px red,
+512px -198px 1px red,
+562px -198px 1px red,
+
+/* fifteen row 
+fifteen row 
+fifteen row 
+fifteen row 
+fifteen row 
+fifteen row 
+fifteen row  */
+24px -214.5px 1px red,
+650px -214.5px 1px red,
+700px -214.5px 1px red,
+600px -214.5px 1px red,
+74px -214.5px 1px red,
+125px -214.5px 1px red,
+174px -214.5px 1px red,
+224px -214.5px 1px red,
+274px -214.5px 1px red,
+324px -214.5px 1px red,
+374px -214.5px 1px red,
+424px -214.5px 1px red,
+474px -214.5px 1px red,
+524px -214.5px 1px red,
+574px -214.5px 1px red,
+
+/* sixteen row 
+sixteen row 
+sixteen row 
+sixteen row 
+sixteen row 
+sixteen row 
+sixteen row 
+sixteen row  */
+36px -231px 1px red,
+86px -231px 1px red,
+136px -231px 1px red,
+186px -231px 1px red,
+636px -231px 1px red,
+650px -231px 1px red,
+700px -231px 1px red,
+236px -231px 1px red,
+286px -231px 1px red,
+336px -231px 1px red,
+386px -231px 1px red,
+436px -231px 1px red,
+486px -231px 1px red,
+536px -231px 1px red,
+586px -231px 1px red,
+
+/* seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row 
+seventeen row  */
+48px -247.5px 1px red,
+98px -247.5px 1px red,
+148px -247.5px 1px red,
+198px -247.5px 1px red,
+248px -247.5px 1px red,
+298px -247.5px 1px red,
+348px -247.5px 1px red,
+398px -247.5px 1px red,
+648px -247.5px 1px red,
+699px -247.5px 1px red,
+448px -247.5px 1px red,
+498px -247.5px 1px red,
+548px -247.5px 1px red,
+598px -247.5px 1px red,
+
+/* eighteen row 
+eighteen row 
+eighteen row 
+eighteen row 
+eighteen row 
+eighteen row 
+eighteen row 
+eighteen row 
+eighteen row  */
+60px -264px 1px red,
+650px -264px 1px red,
+110px -264px 1px red,
+160px -264px 1px red,
+210px -264px 1px red,
+700px -264px 1px red,
+260px -264px 1px red,
+310px -264px 1px red,
+360px -264px 1px red,
+410px -264px 1px red,
+460px -264px 1px red,
+510px -264px 1px red,
+560px -264px 1px red,
+610px -264px 1px red,
+
+/* ninteen row 
+ninteen row 
+ninteen row 
+ninteen row 
+ninteen row 
+ninteen row 
+ninteen row 
+ninteen row  */
+72px -280.5px 1px red,
+122px -280.5px 1px red,
+172px -280.5px 1px red,
+222px -280.5px 1px red,
+272px -280.5px 1px red,
+322px -280.5px 1px red,
+650px -280.5px 1px red,
+700px -280.5px 1px red,
+372px -280.5px 1px red,
+422px -280.5px 1px red,
+472px -280.5px 1px red,
+522px -280.5px 1px red,
+572px -280.5px 1px red,
+622px -280.5px 1px red;
+}
+
+

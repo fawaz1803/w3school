@@ -1,0 +1,349 @@
+
+@font-face {
+    font-family: bungee;
+    src: url(../FONT/AmiriQuran-Regular.ttf);
+}
+
+@font-face {
+    font-family: intrest;
+    src: url(../FONT/Rollanisa.otf);
+}
+
+@font-face {
+    font-family: call on me ;
+    src: url(../FONT/ArefRuqaaInk-Bold.ttf);
+}
+@font-face {
+    font-family: ninne;
+    src: url(../FONT/BlakaInk-Regular.ttf);
+}
+@font-face {
+    font-family: six nine ;
+    src: url(../FONT/BungeeSpice-Regular.ttf);
+}
+@font-face {
+    font-family: one;
+    src: url(../FONT/CairoPlay-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: twoman;
+    src: url(../FONT/Cream\ Cheese\ Demo.otf);
+}
+@font-face {
+    font-family: comand;
+    src: url(../FONT/Lato-ThinItalic.ttf);
+}
+@font-face {
+    font-family: salute;
+    src: url(../FONT/Mukta-Bold.ttf);
+}
+@font-face {
+    font-family: soja;
+    src: url(../FONT/NotoSansJP-Black.otf);
+}
+@font-face {
+    font-family: she goes;
+    src: url(../FONT/Merriweather-LightItalic.ttf);
+}
+@font-face {
+    font-family: monster;
+    src: url(../FONT/Montserrat-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: gooess;
+    src: url(../FONT/Nunito-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: gari;
+    src: url(../FONT/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: kuli;
+    src: url(../FONT/READ\ ME.txt);
+}
+@font-face {
+    font-family: eba;
+    src: url(../FONT/OFL.txt);
+}
+@font-face {
+    font-family: mora;
+    src: url(../FONT/Poppins-BlackItalic.ttf);
+}
+@font-face {
+    font-family: warrant;
+    src: url(../FONT/ReemKufiInk-Regular.ttf);
+}
+@font-face {
+    font-family: officer;
+    src: url(../FONT/rollanisa.zip);
+}
+@font-face {
+    font-family: sergent;
+    src: url(../FONT/SourceSansPro-Light.ttf);
+}
+@font-face {
+    font-family: rodo;
+    src: url(../FONT/Ubuntu-BoldItalic.ttf);
+}
+@font-face {
+    font-family: more;
+    src: url(../FONT/Hind_Siliguri\ -\ Copy\ -\ Copy.zip);
+}
+@font-face {
+    font-family: golden;
+    src: url(../FONT/Mulish\ -\ Copy\ \(2\).zip);
+}
+@font-face {
+    font-family: corn;
+    src: url(../FONT/BlakaInk-Regular.ttf);
+}
+@font-face {
+    font-family: iron man;
+    src: url(../FONT/Oswald.zip);
+}
+@font-face {
+    font-family: robot;
+    src: url(../FONT/Dangrek-Regular.ttf);
+}
+@font-face {
+    font-family: to;
+    src: url(../FONT/Acme-Regular.ttf);
+}
+@font-face {
+    font-family: whee;
+    src: url(../FONT/Abel-Regular.ttf);
+}
+@font-face {
+    font-family: flaske;
+    src: url(../FONT/Arimo-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: head;
+    src: url(../FONT/Arvo-Bold.ttf);
+}
+@font-face {
+    font-family: haha;
+    src: url(../FONT/CairoPlay-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: sure;
+    src: url(../FONT/Asap-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: fire;
+    src: url(../FONT/Exo2-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: moto;
+    src: url(../FONT/ArefRuqaaInk-Bold.ttf);
+}
+@font-face {
+    font-family: come;
+    src: url(../FONT/Heebo-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: josjos;
+    src: url(../FONT/Jost-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: kanta;
+    src: url(../FONT/Kanit-ExtraBold.ttf);
+}
+@font-face {
+    font-family: wawa;
+    src: url(../FONT/Karla-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: kuku;
+    src: url(../FONT/Lobster-Regular.ttf);
+}
+@font-face {
+    font-family: kuki;
+    src: url(../FONT/Libre_Franklin.zip);
+}
+@font-face {
+    font-family: nomal;
+    src: url(../FONT/NanumGothic-Bold\ -\ Copy\ \(2\).ttf);
+}
+@font-face {
+    font-family: make;
+    src: url(../FONT/PTSerif-BoldItalic.ttf);
+}
+@font-face {
+    font-family: maker;
+    src: url(../FONT/Questrial.zip);
+}
+@font-face {
+    font-family: abby;
+    src: url(../FONT/Quicksand-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: koko;
+    src: url(../FONT/MsMadi-Regular.ttf);
+}
+@font-face {
+    font-family: kolo;
+    src: url(../FONT/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: kala;
+    src: url(../FONT/Sarabun-ExtraBoldItalic.ttf);
+}
+@font-face {
+    font-family: boo;
+    src: url(../FONT/Teko-SemiBold.ttf);
+}
+@font-face {
+    font-family: ok;
+    src: url(../FONT/Barlow-SemiBoldItalic.ttf);
+}
+
+.lorem{
+    font-family: bungee;
+}
+.max{
+    font-family: intrest;
+    font-size: 20px;
+}
+.togo{
+    font-family: call on me;
+}
+.come{
+    font-family: ninne;
+}
+.ever{
+    font-family: six nine;
+}
+.wated{
+    font-family: one;
+}
+.comes{
+    font-family: twoman;
+}
+.we{
+    font-family: comand;
+    font-size: 30px;
+}
+.here{
+    font-family: salute;
+}
+.welcome{
+    font-family: soja;
+}
+.go{
+    font-family: she goes;
+}
+.maybe{
+    font-family: monster;
+}
+.hair{
+    font-family: gooess;
+}
+.water{
+    font-family: gari;
+}
+.GARI{
+    font-family: kuli;
+}
+.internal{
+    font-family: eba;
+}
+.oppy{
+    font-family: mora;
+}
+.kele{
+    font-family: warrant;
+}
+.mud{
+    font-family: officer;
+}
+.sauce{
+    font-family: sergent;
+}
+.clay{
+    font-family: rodo;
+}
+.moringa{
+    font-family: more;
+}
+.shalewa{
+    font-family: golden;
+}
+.mowa{
+    font-family: corn;
+}
+.iya{
+    font-family: iron man;
+}
+.opoor{
+    font-family: robot;
+}
+.academy{
+    font-family: to;
+}
+.abu{
+    font-family: whee;
+}
+.fit{
+    font-family: flaske;
+}
+.love{
+    font-family: head;
+}
+.shame{
+    font-family: haha;
+}
+.mapamina{
+    font-family: sure;
+}
+.fire{
+    font-family: fire;
+}
+.moto{
+    font-family: moto;
+}
+.go{
+    font-family: come;
+}
+.jos{
+    font-family: josjos;
+}
+.kanta{
+    font-family: kanta;
+}
+.baba{
+    font-family: wawa;
+}
+.star{
+    font-family: kuku;
+}
+.liber{
+    font-family: kuki;
+}
+.nomo{
+    font-family: nomal;
+}
+.otp{
+    font-family: mak;
+}
+.sand{
+    font-family: maker;
+}
+.abel{
+    font-family: abby;
+}
+.Ms{
+    font-family: koko;
+}
+.pacific{
+    font-family: kolo;
+}.saban{
+    font-family: kala;
+}
+.tecno{
+    font-family: boo;
+}
+.tinku{
+    font-family: ok;
+}
+

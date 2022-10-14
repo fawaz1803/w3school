@@ -1,0 +1,67 @@
+@import url(../ICON/fontawesome-free-6.1.2-web/css/all.css);
+
+
+.body1{
+    border: 1px solid black;
+    width: 600px;
+    height: 230px;
+    background-color: rgb(16,57,40);
+}
+.koko{
+    padding-left: 750px;
+    margin-top: -170px;
+    font-size: 30px;
+}
+.html{
+    padding-left: 1200px;
+    margin-top: -28px;
+    font-size: 30px;
+}
+.elite{
+    padding-left: 1270px;
+    margin-top: -33px;
+    font-size: 30px;
+}
+.camp{
+    padding-left: 750px;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.arc{
+    padding-left: 799px;
+    color: green;
+    margin-top: -25px;
+}
+.call{
+    padding-left: 950px;
+    margin-top: -18px;
+    color: #e5e5e5;
+}
+.agb{
+    padding-left: 1130px;
+    margin-top: -18px;
+    color: #e5e5e5;
+}
+.body2{
+    border: 1px solid rgb(16, 57, 40);
+    width: 600px;
+    height: 600px;
+    background-color: green;
+    margin-top: 20px;
+}
+.gee{
+    margin-top: -550px;
+    padding-left: 750px;
+    font-size: 30px;
+}
+.cap{
+    padding-left: 800px;
+    margin-top: -38px;
+    color: #e5e5e5;
+    font-size: 30px;
+}
+.gra{
+    padding-left: 800px;
+    margin-top: 15px;
+    color: #e5e5e5;
+}

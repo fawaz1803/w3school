@@ -1,0 +1,411 @@
+.Box {
+    width: 50px;
+    height: 15px;
+    background-color: white;
+    margin-top: -100px;
+    box-shadow:
+    /* FIRST ROW
+    FIRST ROW
+    FIRST ROW
+    FIRST ROW
+    FIRST ROW*/ 0px
+        600px 1px YELLOW,
+      51px 600px 1px black, 102px 600px 1px YELLOW, 153px 600px 1px black,
+      204px 600px 1px YELLOW, 255px 600px 1px black, 306px 600px 1px YELLOW,
+      357px 600px 1px black, 408px 600px 1px YELLOW, 459px 600px 1px black,
+      510px 600px 1px YELLOW, 561px 600px 1px black, 612px 600px 1px YELLOW,
+      663px 600px 1px black, 714px 600px 1px YELLOW, 765px 600px 1px black,
+      816px 600px 1px YELLOW, 867px 600px 1px black, 918px 600px 1px YELLOW,
+      969px 600px 1px white, 1020px 600px 1px white, 1071px 600px 1px white,
+      1122px 600px 1px white, 1173px 600px 1px black, 1224px 600px 1px YELLOW,
+      1275px 600px 1px black,
+      /* SECOND ROW
+      SECOND ROW
+      SECOND ROW
+      SECOND ROW
+      SECOND ROW*/ 0px
+        583.5px 1px black,
+      51px 583.5px 1px YELLOW, 102px 583.5px 1px black, 153px 583.5px 1px YELLOW,
+      204px 583.5px 1px black, 255px 583.5px 1px YELLOW, 306px 583.5px 1px black,
+      357px 583.5px 1px YELLOW, 408px 583.5px 1px black,
+      459px 583.5px 1px YELLOW, 510px 583.5px 1px black,
+      561px 583.5px 1px YELLOW, 612px 583.5px 1px black,
+      663px 583.5px 1px YELLOW, 714px 583.5px 1px black,
+      765px 583.5px 1px YELLOW, 816px 583.5px 1px black,
+      867px 583.5px 1px YELLOW, 918px 583.5px 1px black, 969px 583.5px 1px white,
+      1020px 583.5px 1px white, 1071px 583.5px 1px white, 1122px 583.5px 1px white,
+      1173px 583.5px 1px YELLOW, 1224px 583.5px 1px black,
+      1275px 583.5px 1px YELLOW,
+      /* THIRD ROW
+      THIRD ROW
+      THIRD ROW
+      THIRD ROW
+      THIRD ROW */ 0px
+        567px 1px YELLOW,
+      51px 567px 1px black, 102px 567px 1px YELLOW, 153px 567px 1px black,
+      204px 567px 1px YELLOW, 255px 567px 1px black, 306px 567px 1px YELLOW,
+      357px 567px 1px black, 408px 567px 1px YELLOW, 459px 567px 1px black,
+      510px 567px 1px YELLOW, 561px 567px 1px black, 612px 567px 1px YELLOW,
+      663px 567px 1px black, 714px 567px 1px YELLOW, 765px 567px 1px black,
+      816px 567px 1px YELLOW, 867px 567px 1px black, 918px 567px 1px YELLOW,
+      969px 567px 1px white, 1020px 567px 1px white, 1071px 567px 1px white,
+      1122px 567px 1px white, 1173px 567px 1px black, 1224px 567px 1px YELLOW,
+      1275px 567px 1px black,
+      /* FOURTH ROW
+      FOURTH ROW
+      FOURTH ROW
+      FOURTH ROW
+      FOURTH ROW */ 0px
+        550.5px 1px black,
+      51px 550.5px 1px YELLOW, 102px 550.5px 1px black, 153px 550.5px 1px YELLOW,
+      204px 550.5px 1px white, 255px 550.5px 1px white, 306px 550.5px 1px white,
+      357px 550.5px 1px YELLOW, 408px 550.5px 1px black,
+      459px 550.5px 1px YELLOW, 510px 550.5px 1px black,
+      561px 550.5px 1px YELLOW, 612px 550.5px 1px black,
+      663px 550.5px 1px YELLOW, 714px 550.5px 1px black,
+      765px 550.5px 1px YELLOW, 816px 550.5px 1px black,
+      867px 550.5px 1px YELLOW, 918px 550.5px 1px black, 969px 550.5px 1px white,
+      1020px 550.5px 1px white, 1071px 550.5px 1px white, 1122px 550.5px 1px white,
+      1173px 550.5px 1px YELLOW, 1224px 550.5px 1px black,
+      1275px 550.5px 1px YELLOW,
+      /* FIFTH ROW
+      FIFTH ROW
+      FIFTH ROW
+      FIFTH ROW
+      FIFTH ROW */ 0px
+        534px 1px YELLOW,
+      51px 534px 1px black, 102px 534px 1px YELLOW, 153px 534px 1px black,
+      204px 534px 1px white, 255px 534px 1px white, 306px 534px 1px white,
+      357px 534px 1px black, 408px 534px 1px YELLOW, 459px 534px 1px black,
+      510px 534px 1px YELLOW, 561px 534px 1px black, 612px 534px 1px YELLOW,
+      663px 534px 1px black, 714px 534px 1px YELLOW, 765px 534px 1px black,
+      816px 534px 1px YELLOW, 867px 534px 1px black, 918px 534px 1px YELLOW,
+      969px 534px 1px white, 1020px 534px 1px white, 1071px 534px 1px white,
+      1122px 534px 1px white, 1173px 534px 1px black, 1224px 534px 1px YELLOW,
+      1275px 534px 1px black,
+      /* SIXTH ROW
+      SIXTH ROW
+      SIXTH ROW
+      SIXTH ROW
+      SIXTH ROW */ 0px
+        517.5px 1px black,
+      51px 517.5px 1px YELLOW, 102px 517.5px 1px black, 153px 517.5px 1px YELLOW,
+      204px 517.5px 1px white, 255px 517.5px 1px white, 306px 517.5px 1px white,
+      357px 517.5px 1px YELLOW, 408px 517.5px 1px black,
+      459px 517.5px 1px YELLOW, 510px 517.5px 1px black,
+      561px 517.5px 1px YELLOW, 612px 517.5px 1px black,
+      663px 517.5px 1px YELLOW, 714px 517.5px 1px black,
+      765px 517.5px 1px YELLOW, 816px 517.5px 1px black,
+      867px 517.5px 1px YELLOW, 918px 517.5px 1px black, 969px 517.5px 1px white,
+      1020px 517.5px 1px white, 1071px 517.5px 1px white, 1122px 517.5px 1px white,
+      1173px 517.5px 1px YELLOW, 1224px 517.5px 1px black,
+      1275px 517.5px 1px YELLOW,
+      /* SEVENTH ROW
+      SEVENTH ROW
+      SEVENTH ROW
+      SEVENTH ROW
+      SEVENTH ROW*/
+        0px 501px 1px YELLOW,
+      51px 501px 1px black, 102px 501px 1px YELLOW, 153px 501px 1px black,
+      204px 501px 1px white, 255px 501px 1px white, 306px 501px 1px white,
+      357px 501px 1px black, 408px 501px 1px YELLOW, 459px 501px 1px black,
+      510px 501px 1px YELLOW, 561px 501px 1px black, 612px 501px 1px YELLOW,
+      663px 501px 1px black, 714px 501px 1px YELLOW, 765px 501px 1px black,
+      816px 501px 1px YELLOW, 867px 501px 1px black, 918px 501px 1px YELLOW,
+      969px 501px 1px white, 1020px 501px 1px white, 1071px 501px 1px white,
+      1122px 501px 1px white, 1173px 501px 1px black, 1224px 501px 1px YELLOW,
+      1275px 501px 1px black,
+      /* EIGHTH ROW
+      EIGHTH ROW
+      EIGHTH ROW
+      EIGHTH ROW
+      EIGHTH ROW */ 0px
+        484.5px 1px black,
+      51px 484.5px 1px YELLOW, 102px 484.5px 1px black, 153px 484.5px 1px YELLOW,
+      204px 484.5px 1px white, 255px 484.5px 1px white, 306px 484.5px 1px white,
+      357px 484.5px 1px YELLOW, 408px 484.5px 1px black,
+      459px 484.5px 1px YELLOW, 510px 484.5px 1px black,
+      561px 484.5px 1px YELLOW, 612px 484.5px 1px black,
+      663px 484.5px 1px YELLOW, 714px 484.5px 1px black,
+      765px 484.5px 1px YELLOW, 816px 484.5px 1px black,
+      867px 484.5px 1px YELLOW, 918px 484.5px 1px black, 969px 484.5px 1px white,
+      1020px 484.5px 1px white, 1071px 484.5px 1px white, 1122px 484.5px 1px white,
+      1173px 484.5px 1px YELLOW, 1224px 484.5px 1px black,
+      1275px 484.5px 1px YELLOW,
+      /* NINTH ROW
+      NINTH ROW
+      NINTH ROW
+      NINTH ROW
+      NINTH ROW */ 0px
+        468px 1px YELLOW,
+      51px 468px 1px black, 102px 468px 1px YELLOW, 153px 468px 1px black,
+      204px 468px 1px YELLOW, 255px 468px 1px black, 306px 468px 1px YELLOW,
+      357px 468px 1px black, 408px 468px 1px YELLOW, 459px 468px 1px black,
+      510px 468px 1px YELLOW, 561px 468px 1px black, 612px 468px 1px YELLOW,
+      663px 468px 1px black, 714px 468px 1px YELLOW, 765px 468px 1px black,
+      816px 468px 1px YELLOW, 867px 468px 1px black, 918px 468px 1px YELLOW,
+      969px 468px 1px white, 1020px 468px 1px white, 1071px 468px 1px white,
+      1122px 468px 1px white, 1173px 468px 1px black, 1224px 468px 1px YELLOW,
+      1275px 468px 1px black,
+      /* TENTH ROW
+        TENTH ROW
+        TENTH ROW
+        TENTH ROW
+        TENTH ROW */
+        0px 451.5px 1px black,
+      51px 451.5px 1px YELLOW, 102px 451.5px 1px black, 153px 451.5px 1px YELLOW,
+      204px 451.5px 1px black, 255px 451.5px 1px YELLOW, 306px 451.5px 1px black,
+      357px 451.5px 1px YELLOW, 408px 451.5px 1px black,
+      459px 451.5px 1px YELLOW, 510px 451.5px 1px black,
+      561px 451.5px 1px YELLOW, 612px 451.5px 1px black,
+      663px 451.5px 1px YELLOW, 714px 451.5px 1px black,
+      765px 451.5px 1px YELLOW, 816px 451.5px 1px black,
+      867px 451.5px 1px YELLOW, 918px 451.5px 1px black,
+      969px 451.5px 1px YELLOW, 1020px 451.5px 1px black,
+      1071px 451.5px 1px YELLOW, 1122px 451.5px 1px black,
+      1173px 451.5px 1px YELLOW, 1224px 451.5px 1px black,
+      1275px 451.5px 1px YELLOW,
+      /* ELEVENTH ROW
+      ELEVENTH ROW
+      ELEVENTH ROW
+      ELEVENTH ROW
+      ELEVENTH ROW */
+        0px 435px 1px YELLOW,
+      51px 435px 1px black, 102px 435px 1px YELLOW, 153px 435px 1px black,
+      204px 435px 1px YELLOW, 255px 435px 1px black, 306px 435px 1px YELLOW,
+      357px 435px 1px black, 408px 435px 1px YELLOW, 459px 435px 1px black,
+      510px 435px 1px YELLOW, 561px 435px 1px black, 612px 435px 1px YELLOW,
+      663px 435px 1px black, 714px 435px 1px YELLOW, 765px 435px 1px black,
+      816px 435px 1px YELLOW, 867px 435px 1px black, 918px 435px 1px YELLOW,
+      969px 435px 1px black, 1020px 435px 1px YELLOW, 1071px 435px 1px black,
+      1122px 435px 1px YELLOW, 1173px 435px 1px black, 1224px 435px 1px YELLOW,
+      1275px 435px 1px black,
+      /* TWELFTH ROW
+      TWELFTH ROW
+      TWELFTH ROW
+      TWELFTH ROW */ 0px 418.5px
+        1px black,
+      51px 418.5px 1px YELLOW, 102px 418.5px 1px black, 153px 418.5px 1px YELLOW,
+      204px 418.5px 1px black, 255px 418.5px 1px YELLOW, 306px 418.5px 1px black,
+      357px 418.5px 1px YELLOW, 408px 418.5px 1px black,
+      459px 418.5px 1px YELLOW, 510px 418.5px 1px black,
+      561px 418.5px 1px YELLOW, 612px 418.5px 1px black,
+      663px 418.5px 1px YELLOW, 714px 418.5px 1px black,
+      765px 418.5px 1px YELLOW, 816px 418.5px 1px black,
+      867px 418.5px 1px YELLOW, 918px 418.5px 1px black,
+      969px 418.5px 1px YELLOW, 1020px 418.5px 1px black,
+      1071px 418.5px 1px YELLOW, 1122px 418.5px 1px black,
+      1173px 418.5px 1px YELLOW, 1224px 418.5px 1px black,
+      1275px 418.5px 1px YELLOW,
+      /* FIRST ROW ROOF
+      FIRST ROW ROOF
+      FIRST ROW ROOF
+      FIRST ROW ROOF */
+        15px 402px 1px BLUE,
+      66px 402px 1px BLUE, 117px 402px 1px BLUE, 168px 402px 1px BLUE,
+      219px 402px 1px BLUE, 270px 402px 1px BLUE, 321px 402px 1px BLUE,
+      372px 402px 1px BLUE, 423px 402px 1px BLUE, 474px 402px 1px BLUE,
+      525px 402px 1px BLUE, 576px 402px 1px BLUE, 627px 402px 1px BLUE,
+      678px 402px 1px BLUE, 729px 402px 1px BLUE, 780px 402px 1px BLUE,
+      816px 402px 1px YELLOW, 867px 402px 1px black, 918px 402px 1px YELLOW,
+      969px 402px 1px black, 1020px 402px 1px YELLOW, 1071px 402px 1px black,
+      1122px 402px 1px YELLOW, 1173px 402px 1px black, 1224px 402px 1px YELLOW,
+      1260px 402px 1px black,
+      /* SECOND ROW ROOF
+      SECOND ROW ROOF
+      SECOND ROW ROOF
+      SECOND ROW ROOF*/
+        30px 385.5px 1px BLUE,
+      81px 385.5px 1px BLUE, 132px 385.5px 1px BLUE, 183px 385.5px 1px BLUE,
+      234px 385.5px 1px BLUE, 285px 385.5px 1px BLUE, 336px 385.5px 1px BLUE,
+      387px 385.5px 1px BLUE, 438px 385.5px 1px BLUE, 489px 385.5px BLUE,
+      540px 385.5px 1px BLUE, 591px 385.5px 1px BLUE, 642px 385.5px 1px BLUE,
+      693px 385.5px 1px BLUE, 744px 385.5px 1px BLUE, 795px 385.5px 1px BLUE,
+      816px 385.5px 1px black, 867px 385.5px 1px YELLOW, 918px 385.5px 1px black,
+      969px 385.5px 1px YELLOW, 1020px 385.5px 1px black,
+      1071px 385.5px 1px YELLOW, 1122px 385.5px 1px black,
+      1173px 385.5px 1px YELLOW, 1224px 385.5px 1px black,
+      1245px 385.5px 1px YELLOW,
+      /* THIRD ROW ROOF 
+      THIRD ROW ROOF 
+      THIRD ROW ROOF 
+      THIRD ROW ROOF   */
+        45px 369px 1px BLUE,
+      96px 369px 1px BLUE, 147px 369px 1px BLUE, 198px 369px 1px BLUE,
+      249px 369px 1px BLUE, 300px 369px 1px BLUE, 351px 369px 1px BLUE,
+      402px 369px 1px BLUE, 453px 369px 1px BLUE, 504px 369px 1px BLUE,
+      555px 369px 1px BLUE, 606px 369px 1px BLUE, 657px 369px 1px BLUE,
+      708px 369px 1px BLUE, 759px 369px 1px BLUE, 810px 369px 1px BLUE,
+      861px 369px 1px YELLOW, 912px 369px 1px black, 963px 369px 1px YELLOW,
+      1014px 369px 1px black, 1065px 369px 1px YELLOW, 1116px 369px 1px black,
+      1167px 369px 1px YELLOW, 1218px 369px 1px black, 1230px 369px 1px YELLOW,
+      /* FOURTH ROW ROOF
+      FOURTH ROW ROOF
+      FOURTH ROW ROOF
+      FOURTH ROW ROOF */
+        60px 352.5px 1px BLUE,
+      111px 352.5px 1px BLUE, 162px 352.5px 1px BLUE, 213px 352.5px 1px BLUE,
+      264px 352.5px 1px BLUE, 315px 352.5px 1px BLUE, 366px 352.5px 1px BLUE,
+      417px 352.5px 1px BLUE, 468px 352.5px 1px BLUE, 519px 352.5px 1px BLUE,
+      570px 352.5px 1px BLUE, 621px 352.5px 1px BLUE, 672px 352.5px 1px BLUE,
+      723px 352.5px 1px BLUE, 774px 352.5px 1px BLUE, 825px 352.5px 1px BLUE,
+      876px 352.5px 1px black, 927px 352.5px 1px YELLOW, 978px 352.5px 1px black,
+      1029px 352.5px 1px YELLOW, 1080px 352.5px 1px black,
+      1131px 352.5px 1px YELLOW, 1182px 352.5px 1px black,
+      1215px 352.5px 1px YELLOW,
+      /* FIFTH ROW ROOF
+      FIFTH ROW ROOF
+      FIFTH ROW ROOF
+      FIFTH ROW ROOF */
+        75px 336px 1px BLUE,
+      126px 336px 1px BLUE, 177px 336px 1px BLUE, 228px 336px 1px BLUE,
+      279px 336px 1px BLUE, 330px 336px 1px BLUE, 381px 336px 1px BLUE,
+      432px 336px 1px BLUE, 483px 336px 1px BLUE, 534px 336px 1px BLUE,
+      585px 336px 1px BLUE, 636px 336px 1px BLUE, 687px 336px 1px BLUE,
+      738px 336px 1px BLUE, 789px 336px 1px BLUE, 840px 336px 1px BLUE,
+      891px 336px 1px YELLOW, 942px 336px 1px black, 993px 336px 1px YELLOW,
+      1044px 336px 1px black, 1095px 336px 1px YELLOW, 1146px 336px 1px black,
+      1197px 336px 1px YELLOW, 1200px 336px 1px black,
+      /* SIXTH ROW ROOF
+      SIXTH ROW ROOF
+      SIXTH ROW ROOF
+      SIXTH ROW ROOF*/
+        90px 319.5px 1px BLUE,
+      141px 319.5px 1px BLUE, 192px 319.5px 1px BLUE, 243px 319.5px 1px BLUE,
+      294px 319.5px 1px BLUE, 345px 319.5px 1px BLUE, 396px 319.5px 1px BLUE,
+      447px 319.5px 1px BLUE, 498px 319.5px 1px BLUE, 549px 319.5px 1px BLUE,
+      600px 319.5px 1px BLUE, 651px 319.5px 1px BLUE, 702px 319.5px 1px BLUE,
+      753px 319.5px 1px BLUE, 804px 319.5px 1px BLUE, 855px 319.5px 1px BLUE,
+      906px 319.5px 1px black, 957px 319.5px 1px YELLOW, 1008px 319.5px 1px black,
+      1059px 319.5px 1px YELLOW, 1110px 319.5px 1px black,
+      1161px 319.5px 1px YELLOW, 1185px 319.5px 1px black,
+      /* SEVENTH ROW ROOF
+      SEVENTH ROW ROOF
+      SEVENTH ROW ROOF
+      SEVENTH ROW ROOF*/
+        105px 303px 1px BLUE,
+      156px 303px 1px BLUE, 207px 303px 1px BLUE, 258px 303px 1px BLUE,
+      309px 303px 1px BLUE, 360px 303px 1px BLUE, 411px 303px 1px BLUE,
+      462px 303px 1px BLUE, 513px 303px 1px BLUE, 564px 303px 1px BLUE,
+      615px 303px 1px BLUE, 666px 303px 1px BLUE, 717px 303px 1px BLUE,
+      768px 303px 1px BLUE, 819px 303px 1px BLUE, 870px 303px 1px BLUE,
+      921px 303px 1px YELLOW, 972px 303px 1px black, 1023px 303px 1px YELLOW,
+      1074px 303px 1px black, 1125px 303px 1px YELLOW, 1170px 303px 1px black,
+      /* EIGTH ROW ROOF
+      EIGTH ROW ROOF
+      EIGTH ROW ROOF
+      EIGTH ROW ROOF*/
+        120px 286.5px 1px BLUE,
+      171px 286.5px 1px BLUE, 222px 286.5px 1px BLUE, 273px 286.5px 1px BLUE,
+      324px 286.5px 1px BLUE, 375px 286.5px 1px BLUE, 426px 286.5px 1px BLUE,
+      477px 286.5px 1px BLUE, 528px 286.5px 1px BLUE, 579px 286.5px 1px BLUE,
+      630px 286.5px 1px BLUE, 681px 286.5px 1px BLUE, 732px 286.5px 1px BLUE,
+      783px 286.5px 1px BLUE, 834px 286.5px 1px BLUE, 885px 286.5px 1px BLUE,
+      936px 286.5px 1px black, 987px 286.5px 1px YELLOW, 1038px 286.5px 1px black,
+      1089px 286.5px 1px YELLOW, 1140px 286.5px 1px black,
+      1155px 286.5px 1px YELLOW,
+      /* NINTH ROW ROOF
+      NINTH ROW ROOF
+      NINTH ROW ROOF
+      NINTH ROW ROOF */
+        135px 270px 1px BLUE,
+      186px 270px 1px BLUE, 237px 270px 1px BLUE, 288px 270px 1px BLUE,
+      339px 270px 1px BLUE, 390px 270px 1px BLUE, 441px 270px 1px BLUE,
+      492px 270px 1px BLUE, 543px 270px 1px BLUE, 594px 270px 1px BLUE,
+      645px 270px 1px BLUE, 696px 270px 1px BLUE, 747px 270px 1px BLUE,
+      798px 270px 1px BLUE, 849px 270px 1px BLUE, 900px 270px 1px BLUE,
+      951px 270px 1px YELLOW, 1002px 270px 1px black, 1053px 270px 1px YELLOW,
+      1104px 270px 1px black, 1140px 270px 1px YELLOW,
+      /* TENTH ROW ROOF
+      TENTH ROW ROOF
+      TENTH ROW ROOF 
+      TENTH ROW ROOF */
+        150px 253.5px 1px BLUE,
+      201px 253.5px 1px BLUE, 252px 253.5px 1px BLUE, 303px 253.5px 1px BLUE,
+      354px 253.5px 1px BLUE, 405px 253.5px 1px BLUE, 456px 253.5px 1px BLUE,
+      507px 253.5px 1px BLUE, 558px 253.5px 1px BLUE, 609px 253.5px 1px BLUE,
+      660px 253.5px 1px BLUE, 711px 253.5px 1px BLUE, 762px 253.5px 1px BLUE,
+      813px 253.5px 1px BLUE, 864px 253.5px 1px BLUE, 915px 253.5px 1px BLUE,
+      966px 253.5px 1px black, 1017px 253.5px 1px YELLOW,
+      1068px 253.5px 1px black, 1119px 253.5px 1px YELLOW,
+      1125px 253.5px 1px black,
+      /* ELEVENTH ROW ROOF
+      ELEVENTH ROW ROOF 
+      ELEVENTH ROW ROOF 
+      ELEVENTH ROW ROOF */
+        165px 237px 1px BLUE,
+      216px 237px 1px BLUE, 267px 237px 1px BLUE, 318px 237px 1px BLUE,
+      369px 237px 1px BLUE, 420px 237px 1px BLUE, 471px 237px 1px BLUE,
+      522px 237px 1px BLUE, 573px 237px 1px BLUE, 624px 237px 1px BLUE,
+      675px 237px 1px BLUE, 726px 237px 1px BLUE, 777px 237px 1px BLUE,
+      828px 237px 1px BLUE, 879px 237px 1px BLUE, 930px 237px 1px BLUE,
+      981px 237px 1px YELLOW, 1032px 237px 1px black, 1083px 237px 1px YELLOW,
+      1110px 237px 1px black,
+      /* TWELFTH ROW ROOF
+      TWELFTH ROW ROOF 
+      TWELFTH ROW ROOF 
+      TWELFTH ROW ROOF */
+        180px 220.5px 1px BLUE,
+      231px 220.5px 1px BLUE, 282px 220.5px 1px BLUE, 333px 220.5px 1px BLUE,
+      384px 220.5px 1px BLUE, 435px 220.5px 1px BLUE, 486px 220.5px 1px BLUE,
+      537px 220.5px 1px BLUE, 588px 220.5px 1px BLUE, 639px 220.5px 1px BLUE,
+      690px 220.5px 1px BLUE, 741px 220.5px 1px BLUE, 792px 220.5px 1px BLUE,
+      843px 220.5px 1px BLUE, 894px 220.5px 1px BLUE, 945px 220.5px 1px BLUE,
+      996px 220.5px 1px black, 1047px 220.5px 1px YELLOW,
+      1095px 220.5px 1px black,
+      /* THIRTEENTH ROW ROOF
+      THIRTEENTH ROW ROOF
+      THIRTEENTH ROW ROOF
+      THIRTEENTH ROW ROOF */
+        195px 204px 1px BLUE,
+      246px 204px 1px BLUE, 297px 204px 1px BLUE, 348px 204px 1px BLUE,
+      399px 204px 1px BLUE, 450px 204px 1px BLUE, 501px 204px 1px BLUE,
+      552px 204px 1px BLUE, 603px 204px 1px BLUE, 654px 204px 1px BLUE,
+      705px 204px 1px BLUE, 756px 204px 1px BLUE, 807px 204px 1px BLUE,
+      858px 204px 1px BLUE, 909px 204px 1px BLUE, 960px 204px 1px BLUE,
+      1011px 204px 1px black, 1062px 204px 1px YELLOW, 1080px 204px 1px black,
+      /* FOURTEENTH ROW ROOF
+      FOURTEENTH ROW ROOF
+      FOURTEENTH ROW ROOF
+      FOURTEENTH ROW ROOF */
+        210px 187.5px 1px BLUE,
+      261px 187.5px 1px BLUE, 312px 187.5px 1px BLUE, 363px 187.5px 1px BLUE,
+      414px 187.5px 1px BLUE, 465px 187.5px 1px BLUE, 516px 187.5px 1px BLUE,
+      567px 187.5px 1px BLUE, 618px 187.5px 1px BLUE, 669px 187.5px 1px BLUE,
+      720px 187.5px 1px BLUE, 771px 187.5px 1px BLUE, 822px 187.5px 1px BLUE,
+      873px 187.5px 1px BLUE, 924px 187.5px 1px BLUE, 975px 187.5px 1px BLUE,
+      1026px 187.5px 1px black, 1065px 187.5px 1px YELLOW,
+      /* FIFTEENTH ROW ROOF
+      FIFTEENTH ROW ROOF
+      FIFTEENTH ROW ROOF
+      FIFTEENTH ROW ROOF */
+        225px 171px 1px BLUE,
+      276px 171px 1px BLUE, 327px 171px 1px BLUE, 378px 171px 1px BLUE,
+      429px 171px 1px BLUE, 480px 171px 1px BLUE, 531px 171px 1px BLUE,
+      582px 171px 1px BLUE, 633px 171px 1px BLUE, 684px 171px 1px BLUE,
+      735px 171px 1px BLUE, 786px 171px 1px BLUE, 837px 171px 1px BLUE,
+      888px 171px 1px BLUE, 939px 171px 1px BLUE, 990px 171px 1px BLUE,
+      1041px 171px 1px black, 1050px 171px 1px YELLOW,
+      /* SIXTEENTH ROW ROOF
+      SIXTEENTH ROW ROOF
+      SIXTEENTH ROW ROOF
+      SIXTEENTH ROW ROOF */
+        240px 154.5px 1px BLUE,
+      291px 154.5px 1px BLUE, 342px 154.5px 1px BLUE, 393px 154.5px 1px BLUE,
+      444px 154.5px 1px BLUE, 495px 154.5px 1px BLUE, 546px 154.5px 1px BLUE,
+      597px 154.5px 1px BLUE, 648px 154.5px 1px BLUE, 699px 154.5px 1px BLUE,
+      750px 154.5px 1px BLUE, 801px 154.5px 1px BLUE, 852px 154.5px 1px BLUE,
+      903px 154.5px 1px BLUE, 954px 154.5px 1px BLUE, 1005px 154.5px 1px BLUE,
+      1035px 154.5px 1px black,
+      /* SEVENTEENTH ROW ROOF
+      SEVENTEENTH ROW ROOF
+      SEVENTEENTH ROW ROOF
+      SEVENTEENTH ROW ROOF */
+        255px 138px 1px BLUE,
+      306px 138px 1px BLUE, 357px 138px 1px BLUE, 408px 138px 1px BLUE,
+      459px 138px 1px BLUE, 510px 138px 1px BLUE, 561px 138px 1px BLUE,
+      612px 138px 1px BLUE, 663px 138px 1px BLUE, 714px 138px 1px BLUE,
+      765px 138px 1px BLUE, 816px 138px 1px BLUE, 867px 138px 1px BLUE,
+      918px 138px 1px BLUE, 969px 138px 1px BLUE, 1020px 138px 1px BLUE;
+  }
+  
